@@ -19,7 +19,7 @@ theme = "minimalist"
     location = "KC"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    header_background = "img/pegboard.jpg"
     header_title = "Discussing All of the Things"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
