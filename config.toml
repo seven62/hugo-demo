@@ -7,20 +7,20 @@ paginate = 10
 #disqusShortname = "spf13"
 # Enable gogle analytics by entering your tracking code
 googleAnalytics = ""
-theme = "hugo-minimalist-theme"
+theme = "minimalist"
 # Remove this line if you use this theme for a real website.
 # It allows you to preview the theme within the exampleSite folder
 # with the hugo server command
 # themesDir = "../.."
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
-    location = "Earth"
+    site_author = "Sean Cochran"
+    site_description = "Thoughts of a digital and analog polyglot."
+    location = "KC"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
     header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
+    header_title = "Discussing All of the Things"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
